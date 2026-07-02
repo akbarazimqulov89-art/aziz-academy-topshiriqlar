@@ -1,0 +1,2 @@
+faol = True
+tasdiqlangan = False
