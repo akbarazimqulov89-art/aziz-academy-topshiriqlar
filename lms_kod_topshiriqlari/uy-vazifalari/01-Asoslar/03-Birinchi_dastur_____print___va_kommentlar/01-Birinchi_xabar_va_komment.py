@@ -1,2 +1,1 @@
-# Bu meining birinchi dasturim
-print("Men python o'rganyapman!")
+print("Men Python o'rganyapman!")
