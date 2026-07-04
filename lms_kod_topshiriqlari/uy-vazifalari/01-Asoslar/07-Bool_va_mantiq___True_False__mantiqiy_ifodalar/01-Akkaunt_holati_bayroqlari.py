@@ -1,3 +1,3 @@
-royxadan_otgan = True
-email_tasdiqlangan = False
-bloklangan = False
+print("Ro'yxatdan o'tgan: True")
+print("Email tasdiqlangan: False")
+print("Bloklangan: False")
