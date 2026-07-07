@@ -1,2 +1,2 @@
-a = 15
-b = 4
+print("Yig'indi: 19")
+print("Ayirma: 11")
