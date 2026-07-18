@@ -1,34 +1,34 @@
-# 🎓 Aziz Academy — AZIMQULOV AKBAR
+# 🎓 Aziz Academy — Azimqulov Akbar
 
 **Kurs:** Dasturlash / IT
 
 ## 📊 Umumiy progress
 
-`░░░░░░░░░░░░░░░░░░░░` **1%**  (1/179 mavzu)
+`█░░░░░░░░░░░░░░░░░░░` **6%**  (11/179 mavzu)
 
-- ⭐ Jami ball: **27840**
+- ⭐ Jami ball: **29890**
 - 📤 GitHubga yuborilgan topshiriqlar: **337**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 1 — Asoslar** → **Dasturlashga kirish — Python nima va nega o'rganamiz**
+**MODUL 1 — Asoslar** → **Solishtirish operatorlari — == != > < >= <=**
 
-➡️ Keyingi mavzu: *O'rnatish va muhit — Python, interpreter, IDE sozlash*
+➡️ Keyingi mavzu: *Type casting ⭐ — type(), int(), float(), str(), bool()*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
 
-- ✅ Dasturlashga kirish — Python nima va nega o'rganamiz  ← yetgan joyingiz
-- ⬜ O'rnatish va muhit — Python, interpreter, IDE sozlash
-- ⬜ Birinchi dastur ⭐ — print() va kommentlar
-- ⬜ O'zgaruvchilar ⭐ — yaratish va nomlash qoidalari (snake_case)
-- ⬜ Sonlar: int va float — butun va kasr sonlar
-- ⬜ Stringlar — kirish: matn, qo'shtirnoqlar, len()
-- ⬜ Bool va mantiq — True/False, mantiqiy ifodalar
-- ⬜ input() bilan ishlash ⭐ — foydalanuvchidan ma'lumot olish
-- ⬜ Arifmetik operatorlar — + - * / // % ** va prioritet
-- ⬜ Mantiqiy operatorlar — and, or, not
-- ⬜ Solishtirish operatorlari — == != > < >= <=
+- ✅ Dasturlashga kirish — Python nima va nega o'rganamiz
+- ✅ O'rnatish va muhit — Python, interpreter, IDE sozlash
+- ✅ Birinchi dastur ⭐ — print() va kommentlar
+- ✅ O'zgaruvchilar ⭐ — yaratish va nomlash qoidalari (snake_case)
+- ✅ Sonlar: int va float — butun va kasr sonlar
+- ✅ Stringlar — kirish: matn, qo'shtirnoqlar, len()
+- ✅ Bool va mantiq — True/False, mantiqiy ifodalar
+- ✅ input() bilan ishlash ⭐ — foydalanuvchidan ma'lumot olish
+- ✅ Arifmetik operatorlar — + - * / // % ** va prioritet
+- ✅ Mantiqiy operatorlar — and, or, not
+- ✅ Solishtirish operatorlari — == != > < >= <=  ← yetgan joyingiz
 - ⬜ Type casting ⭐ — type(), int(), float(), str(), bool()
 - ⬜ 🛠 Mini-loyiha: Kalkulyator — ikki son ustida amallar (CLI)
 - ⬜ Kod madaniyati: PEP8 — bo'sh joy, nomlash, o'qiluvchanlik
@@ -40,7 +40,7 @@
 
 | # | Modul | Progress | Mavzular |
 |---|-------|----------|----------|
-| 1 | 🔸 Asoslar | `█░░░░░░░░░` 7% | 1/15 |
+| 1 | 🔸 Asoslar | `███████░░░` 73% | 11/15 |
 | 2 | ⬜ Stringlar va Formatlash | `░░░░░░░░░░` 0% | 0/10 |
 | 3 | ⬜ Shartlar va Sikllar | `░░░░░░░░░░` 0% | 0/15 |
 | 4 | ⬜ Ma'lumot Tuzilmalari | `░░░░░░░░░░` 0% | 0/18 |
@@ -63,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-14 17:31</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-18 07:10</sub>
