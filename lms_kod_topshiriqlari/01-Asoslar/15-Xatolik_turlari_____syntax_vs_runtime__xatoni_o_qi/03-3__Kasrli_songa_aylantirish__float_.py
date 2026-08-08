@@ -1,2 +1,2 @@
-son = float(input())
-print(son + 1.5)
+n = float(input()) 
+print(n + 1.5)
