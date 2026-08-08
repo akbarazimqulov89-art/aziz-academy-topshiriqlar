@@ -1,2 +1,2 @@
-qiyimat = input()
-print("Son: " + qiyimat)
+n = int(input()) 
+print("Son: " + str(n))
